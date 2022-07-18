@@ -1,0 +1,35 @@
+
+
+First off make sure you have NODE installed in your system and VSCode also .
+
+
+once you open the vscode 
+
+create a folder : react_proj_cte ( anythg of ur choice)
+
+then   cd react_proj_cte ( cd folder name)
+
+once u r inside folder now create a react proj
+
+
+
+1 ) npx create-react-app react-poc-cts ( npx create-react-app appli-name)
+2 ) cd react-poc-cts ( cd appli-name)
+3 ) once application is created the n replace the code with our code 
+4 ) npm start (this will start the appli will automatically open in chrome once its loaded)
+
+if u face any errors like some modules missing these might be modules
+
+for react-router-dom module error : npm install -S react-router-dom
+for axios module error : npm install axios
+for bootstrap module error : npm install --save bootstrap@^4.0.0-alpha.6  react-bootstrap@^0.32.1
+
+
+once u install them run it once again by terminating the current running application by command
+
+ctrl+c then y 
+
+
+once done run the application again 
+
+npm start that should do to open the application up and running
